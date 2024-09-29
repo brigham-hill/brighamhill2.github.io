@@ -11,14 +11,14 @@ Step 9: Click on "Clone repository." This will download a copy of the repository
 #About Me
 ##My Interests
 * Videogames
-   *Halo
-    *Halo Reach is my favorite
-   *Civilization VI
-   *Baldur's Gate 3
-*Cooking
-  *Stirfry
-  *Pulled Pork
-  *Making Hotsauce
+   * Halo
+     * Halo Reach is my favorite
+   * Civilization VI
+   * Baldur's Gate 3
+* Cooking
+  * Stirfry
+  * Pulled Pork
+  * Making Hotsauce
 ##Websites I Recommend
  - [Alton Brown's Eggnog Recipe](https://altonbrown.com/recipes/eggnog/) - Hands down this is the best eggnog recipe that I have ever used. Turns out perfect each time.
  - [Chili Pepper Madness How to make Hotsauce](https://www.chilipeppermadness.com/recipes/how-to-make-hot-sauce/) - I grew my own Cayenne and Habenero peppers this year and made Hotsauce using this recipe. It turned out great!
